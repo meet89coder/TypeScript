@@ -1,0 +1,8 @@
+npm i typescript // Install typecript
+tsc --init // To get tsconfig.json file
+
+tsc // Run typescript Files
+
+
+Single Page Application
+    -
